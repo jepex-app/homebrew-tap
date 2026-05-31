@@ -6,8 +6,7 @@ for straight-out-of-camera shooters on Fujifilm, Ricoh, and Nikon.
 ## Install
 
 ```sh
-brew tap jepex-app/tap
-brew install --cask jepex
+brew install --cask jepex-app/tap/jepex
 ```
 
 Once installed, jepex keeps itself up to date via its built-in updater.
