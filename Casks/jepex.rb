@@ -1,6 +1,6 @@
 cask "jepex" do
-  version "1.3.0"
-  sha256 "6279703205374b3b5363b8797ffbd7b66364655cb0420104bcadfbb2cd976635"
+  version "1.4.0"
+  sha256 "48605e680ad03e550c78ffd57b5b55c034fafa5c015dbc3729261686642237eb"
 
   url "https://downloads.jepex.app/macos/jepex-#{version}.dmg"
   name "jepex"
